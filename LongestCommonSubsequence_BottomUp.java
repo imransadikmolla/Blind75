@@ -1,4 +1,4 @@
-class LongestCommonSubsequence {
+class LongestCommonSubsequence_BottomUp {
 
   // TC & SC= o(n*m)
     public int longestCommonSubsequenceBottomUp(String text1, String text2) {
